@@ -1,6 +1,6 @@
-#Pelatihan GIT 
+# Pelatihan GIT 
 
-###Membuat To-do-List (2o Juni 2020)
+### Membuat To-do-List (2o Juni 2020)
 
 
 **To-Do-List**
